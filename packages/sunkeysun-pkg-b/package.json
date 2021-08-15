@@ -12,5 +12,6 @@
     "koa": "^2.13.1",
     "koa-compose": "^4.1.0",
     "koa-path-transform": "^4.0.0"
-  }
+  },
+  "gitHead": "a5487ba618c65011d0241c3c5fd196b4a45cb4dd"
 }
