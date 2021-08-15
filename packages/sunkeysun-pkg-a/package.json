@@ -1,6 +1,6 @@
 {
   "name": "sunkeysun-pkg-a",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "private": true,
   "main": "index.js",
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^2.13.1",
-    "sunkeysun-pkg-b": "^1.0.2"
+    "sunkeysun-pkg-b": "^1.0.3"
   }
 }
