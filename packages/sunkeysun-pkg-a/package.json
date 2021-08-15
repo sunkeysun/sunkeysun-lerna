@@ -1,6 +1,6 @@
 {
   "name": "sunkeysun-pkg-a",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "private": true,
   "main": "index.js",
@@ -13,6 +13,6 @@
     "koa": "^2.13.1",
     "koa-compose": "^4.1.0",
     "koa-path-transform": "^4.0.0",
-    "sunkeysun-pkg-b": "^1.0.5"
+    "sunkeysun-pkg-b": "^1.0.6"
   }
 }
